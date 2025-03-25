@@ -1,7 +1,7 @@
 👋 Hi, I’m @mohsenibraheem333
 👀 I’m interested in coding
 🌱 I’m currently learning python programming language 
-💞️ I’m looking to collaborate on ML roject
+💞️ I’m looking to collaborate on a small roject
 📫 How to reach me contact mohsenibraheem333@gmail.com 
 😄 Pronouns: uncle
 ⚡ Fun fact: 😅😂
