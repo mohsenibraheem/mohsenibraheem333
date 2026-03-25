@@ -1,35 +1,48 @@
-# 👋 Hi, I'm Mohsen Ibraheem  
+Hi, I'm Mohsen Ibraheem
 
-💻 **Aspiring Machine Learning Engineer|Computer Sciencetist| Python Developer | Tech Enthusiast**  
-📍 Based in Nigeria  
+Computer science Student| Aspiring Machine Learning Engineer | Data Analyst | Python Developer
 
----
+🚀 About Me
 
-### 🚀 About Me
-- 🎓 Passionate about **data analysis**, **visualisation**, and **machine learning**  
-- 🧠 Currently learning **Pandas**, **Matplotlib**, **Sciekit-learn**,and **Git/GitHub workflows**  
-- 🛠️ I enjoy creating simple but effective **data projects** and **automation scripts**  
-- 📈 Love turning data into meaningful insights  
+I am a computer science student passionate about data analysis and machine learning, with a strong curiosity for solving real-world problems using data.
 
----
+I enjoy transforming raw data into meaningful insights that can support better decisions.
 
-### 🧰 Tech Stack
-**Languages:** Python, SQL, Markdown  
-**Libraries:** Pandas, NumPy, Matplotlib, Jupyter  
-**Tools:** Git, GitHub, Termux, Pydroid, VS Code, Excel
+🧠 Skills
 
----
+Languages: Python, SQL
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+Tools: Excel, Git, GitHub, Pydroid
 
-### 📊 Featured Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| [Company Sales Analysis](https://github.com/mohsenibraheem/company-sales-analyse) | Cleaned and visualised sales data using Pandas & Matplotlib | Python, Jupyter |
-| [Git Automation Scripts](https://github.com/mohsenibraheem/git-automation) | Simple Termux commands for Git automation | Shell |
 
----
+📊 Projects
 
-### 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/mohsenibraheem)
----
+🔹 Company Sales Analysis
 
-> 💡 *"Learning never exhausts the mind — it sharpens it."*
+- Cleaned and analyzed sales data using Pandas
+- Created visualizations to identify trends and patterns
+- Delivered insights on revenue performance
+
+Tools: Python, Pandas, Matplotlib
+
+
+ Git Automation Scripts
+
+ Built simple scripts to automate Git workflows in Termux
+ Improved efficiency in version control tasks
+
+Tools: Git
+
+🎯 Goals
+
+I aim to use data analysis and machine learning to solve impactful problems.
+
+I am also working towards building machine learning projects that provide real value and demonstrate practical applications of AI.
+
+
+🌐 Connect with Me
+
+GitHub: https://github.com/mohsenibraheem333
+
+
+💡 "Turning curiosity into impact through data."
